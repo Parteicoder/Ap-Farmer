@@ -1,0 +1,20 @@
+{
+  "AP-FARMER.ModuleName": "AP-Farmer",
+  "AP-FARMER.HeaderButton": "AP Value",
+  "AP-FARMER.DialogSetTitle": "AP value on death/defeat: {name}",
+  "AP-FARMER.DialogSetLabel": "AP value on death/defeat",
+  "AP-FARMER.Save": "Save",
+  "AP-FARMER.Cancel": "Cancel",
+  "AP-FARMER.ApprovalTitle": "Approve group AP",
+  "AP-FARMER.ApprovalName": "Name",
+  "AP-FARMER.ApprovalType": "Type",
+  "AP-FARMER.ApprovalAmount": "AP amount",
+  "AP-FARMER.TypePlayer": "Player",
+  "AP-FARMER.TypeEnemy": "Enemy",
+  "AP-FARMER.Grant": "Grant",
+  "AP-FARMER.ChatTitle": "Group AP granted",
+  "AP-FARMER.ChatBody": "{source} ({amount} AP) &ndash; credited to: {names}",
+  "AP-FARMER.NoRecipients": "no one",
+  "AP-FARMER.SettingFallbackName": "Default AP value for enemies",
+  "AP-FARMER.SettingFallbackHint": "Used when a defeated enemy has no individual AP value set."
+}
