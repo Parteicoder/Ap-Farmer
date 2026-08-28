@@ -1,0 +1,44 @@
+{
+  "id": "ap-farmer",
+  "title": "AP-Farmer",
+  "description": "Gruppen-AP-System für DSA5: Bei Tod eines Spielercharakters oder Sieg über einen Gegner erhält nach SL-Freigabe die gesamte Gruppe pauschal Abenteuerpunkte.",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "12"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dsa5",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "esmodules": [
+    "scripts/ap-farmer.js"
+  ],
+  "languages": [
+    {
+      "lang": "de",
+      "name": "Deutsch",
+      "path": "lang/de.json"
+    },
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "authors": [
+    {
+      "name": "Parteicoder"
+    }
+  ],
+  "url": "https://github.com/Parteicoder/Ap-Farmer",
+  "manifest": "https://raw.githubusercontent.com/Parteicoder/Ap-Farmer/main/module.json",
+  "download": "https://github.com/Parteicoder/Ap-Farmer/releases/latest/download/module.zip",
+  "license": "LICENSE",
+  "readme": "README.md"
+}

@@ -1,0 +1,20 @@
+{
+  "AP-FARMER.ModuleName": "AP-Farmer",
+  "AP-FARMER.HeaderButton": "AP-Wert",
+  "AP-FARMER.DialogSetTitle": "AP-Wert bei Tod/Niederlage: {name}",
+  "AP-FARMER.DialogSetLabel": "AP-Wert bei Tod/Niederlage",
+  "AP-FARMER.Save": "Speichern",
+  "AP-FARMER.Cancel": "Abbrechen",
+  "AP-FARMER.ApprovalTitle": "Gruppen-AP freigeben",
+  "AP-FARMER.ApprovalName": "Name",
+  "AP-FARMER.ApprovalType": "Typ",
+  "AP-FARMER.ApprovalAmount": "AP-Betrag",
+  "AP-FARMER.TypePlayer": "Spieler",
+  "AP-FARMER.TypeEnemy": "Gegner",
+  "AP-FARMER.Grant": "Vergeben",
+  "AP-FARMER.ChatTitle": "Gruppen-AP vergeben",
+  "AP-FARMER.ChatBody": "{source} ({amount} AP) &ndash; Gutgeschrieben an: {names}",
+  "AP-FARMER.NoRecipients": "niemanden",
+  "AP-FARMER.SettingFallbackName": "Standard-AP-Wert für Gegner",
+  "AP-FARMER.SettingFallbackHint": "Wird verwendet, wenn beim besiegten Gegner kein individueller AP-Wert eingetragen wurde."
+}
